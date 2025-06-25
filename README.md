@@ -3,6 +3,7 @@ Sales-Dashboard-Botswana-SA -- End to End Power BI Bootcamp presented by Pro. Ta
 This Power BI project presents an interactive sales dashboard analyzing vehicle sales performance across Botswana and South Africa. The report visualizes key business metrics such as revenue, profit, quantity sold, and performance by brand, model, and city.
 
 Setup Instructions git clone https://github.com/thobanizondi/Sales-Dashboard-Botswana-SA
+
 Import CSV into Power BI Load dataset
 Apply transformations
 Create insights-driven dashboards
