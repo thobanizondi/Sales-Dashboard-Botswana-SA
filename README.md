@@ -4,9 +4,9 @@ This Power BI project presents an interactive sales dashboard analyzing vehicle 
 
 Setup Instructions git clone https://github.com/thobanizondi/Sales-Dashboard-Botswana-SA
 
-Import CSV into Power BI Load dataset
-Apply transformations
-Create insights-driven dashboards
+-Import CSV into Power BI Load dataset
+-Apply transformations
+-Create insights-driven dashboards
 
 Use Cases
 Present Revenue by Country (ZA / BW)  
